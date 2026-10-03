@@ -64,7 +64,7 @@ window.MODELO = {
       {
         "clave": "bosque",
         "nombre": "Bosque aleatorio (50 árboles)",
-        "mae": 387.5647643003332,
+        "mae": 387.56476430033314,
         "rmse": 700.8243264370672,
         "r2": 0.9691035885361189
       },
@@ -341,8 +341,8 @@ window.MODELO = {
     "aviso_etico": "Es una estimación con error: úsala para aprender y discutir, no para tomar decisiones importantes.",
     "etiqueta_promedio": "Promedio de los datos",
     "subetiqueta_medidor": "USD",
-    "autor": "Tu nombre",
-    "autor_url": "",
+    "autor": "David Vallejo",
+    "autor_url": "https://github.com/DavidVallejoV",
     "grupos": {
       "caso": "Datos del caso"
     }
